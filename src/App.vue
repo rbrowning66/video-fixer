@@ -4,7 +4,7 @@ import FileUpload from './components/FileUpload.vue'
 import VideoPreview from './components/VideoPreview.vue'
 import ConvertProgress from './components/ConvertProgress.vue'
 import { useFFmpeg } from './composables/useFFmpeg.js'
-import logo from './assets/SPLC_Mark_CMYK.png'
+import logo from './assets/video-fixer-logo.png'
 
 const { isLoaded, error, load, convertAndCompress, progress } =
   useFFmpeg()

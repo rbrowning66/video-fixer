@@ -4,4 +4,5 @@ dist
 *.local
 *.Zone.Identifier
 *:sec.endpointdlp
+*.Zone.Identifier
 .vscode
