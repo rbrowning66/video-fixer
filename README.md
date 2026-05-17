@@ -1,4 +1,4 @@
-# ffmpeg-converter
+# ffmpeg-converter-compressor
 
 A browser-based media converter powered by FFmpeg WebAssembly (via `@ffmpeg/ffmpeg`). Built with Vue 3 and Vite.
 
