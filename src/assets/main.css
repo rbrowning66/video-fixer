@@ -51,15 +51,15 @@ body {
 }
 
 .app-header p {
-  margin-top: 0.4rem;
+  margin-top: 0.6rem;
   color: var(--color-text-muted);
   font-size: 0.95rem;
 }
 
 .app-logo {
-  max-height: 180px;
+  max-height: 90px;
   width: auto;
-  margin-bottom: 0.1rem;
+  margin-bottom: 1rem;
 }
 
 /* ── Upload area ── */
@@ -108,13 +108,13 @@ body {
 .upload-title {
   font-size: 1.1rem;
   font-weight: 600;
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.6rem;
 }
 
 .upload-sub {
   font-size: 0.9rem;
   color: var(--color-text-muted);
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.75rem;
 }
 
 .upload-note {
@@ -124,7 +124,7 @@ body {
   display: inline-block;
   padding: 0.3rem 0.75rem;
   border-radius: 99px;
-  margin-top: 0.5rem;
+  margin-top: 0.75rem;
 }
 
 /* ── Error banner ── */
@@ -135,7 +135,7 @@ body {
   color: var(--color-error);
   padding: 0.75rem 1rem;
   font-size: 0.9rem;
-  margin-top: 1.5rem;
+  margin-top: 2rem;
 }
 
 /* ── Progress card ── */
@@ -144,7 +144,7 @@ body {
   border: 1px solid var(--color-border);
   border-radius: var(--radius);
   padding: 1.5rem;
-  margin-top: 1.5rem;
+  margin-top: 2rem;
 }
 
 .progress-label {
@@ -152,7 +152,7 @@ body {
   justify-content: space-between;
   align-items: center;
   font-size: 0.9rem;
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.75rem;
 }
 
 .progress-label span:last-child {
@@ -191,7 +191,7 @@ body {
   border: 1px solid var(--color-border);
   border-radius: var(--radius);
   overflow: hidden;
-  margin-top: 1.5rem;
+  margin-top: 2rem;
 }
 
 .preview-card video {
@@ -219,7 +219,7 @@ body {
 .preview-info .file-size {
   font-size: 0.82rem;
   color: var(--color-text-muted);
-  margin-top: 0.15rem;
+  margin-top: 0.3rem;
 }
 
 .preview-info .file-size.over-limit {
